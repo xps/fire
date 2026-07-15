@@ -1,0 +1,7 @@
+# Build products
+bin/
+obj/
+
+# User files
+*.user
+.vs/
